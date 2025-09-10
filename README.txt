@@ -9,8 +9,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/username/tic-tac-toe-bot.git
-cd tic-tac-toe-bot
+git clone https://github.com/shadow-bytee/TikTakToe-TelegramBot-Rus-.git
 ```
 
 ### 2. Установка зависимостей
