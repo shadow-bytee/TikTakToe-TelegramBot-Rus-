@@ -141,7 +141,5 @@ if __name__ == "__main__":
 	# bot started
 	bot.send_message(ADMIN_ID, "Бот успешно запущен! /start")
 	print(Back.GREEN + f"[{str(datetime.datetime.now())}] Бот успешно запущен!" + Style.RESET_ALL)
-	# for i in range(100):
-	# 	bot.send_message(5091071774, f"пенис {i}")
-	# 	print(i)
+
 	bot.infinity_polling()
